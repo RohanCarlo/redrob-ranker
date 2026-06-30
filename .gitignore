@@ -1,0 +1,25 @@
+# Large dataset files (not tracked)
+candidates.jsonl
+candidates.jsonl.gz
+
+# Organizer-provided files (not part of submission)
+candidate_schema.json
+sample_candidates.json
+sample_submission.csv
+README.docx
+submission_spec.docx
+redrob_signals_doc.docx
+job_description.docx
+Idea Submission Template _ Redrob.pptx
+
+# Scripts not part of the ranking pipeline
+create_solution_document.py
+
+# Claude internal
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
