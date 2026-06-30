@@ -1,6 +1,6 @@
 # Redrob Hackathon — Intelligent Candidate Ranking
 
-**Team:** Rohan | **Contact:** rohan2072001@gmail.com
+**Team:** carlo | **Contact:** rohan2072001@gmail.com
 
 ## What this does
 
